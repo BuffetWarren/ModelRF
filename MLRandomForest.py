@@ -111,7 +111,7 @@ def standardScaling(feature):
 #path = 'datasets/G20'
 path = './'
 #pathResult="results/G20"
-pathResult="./"
+pathResult="results/top"
 #ajout du nouveau fichier du dataset
 metaDataset = pd.read_csv("datasetTest.csv",sep=";")
 print(metaDataset)
