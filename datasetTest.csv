@@ -1,11 +1,11 @@
 code;Feature;featureGroup;filename;execute
 CTriad;Protein Sequence (PSF);Ctriad;EssentialFeature_collection_Ctriad.csv;1
-APAAC;Protein Sequence (PSF);Ctriad;EssentialFeature_collection_APAAC.csv
-CTDD;Protein Sequence (PSF);CTDD;EssentialFeature_collection_CTDD.csv
-Dipetite;Protein Sequence (PSF);Dipetite;EssentialFeature_collection_Dipetite.csv
-Moran;Protein Sequence (PSF);Moran;EssentialFeature_collection_Moran.csv
-Moreau;Protein Sequence (PSF);Moreau;EssentialFeature_collection_Moreau.csv
-Nucleotide;Protein Sequence (PSF);Nucleotide;EssentialFeature_collection_Nucleotide.csv
-Protein;Protein Sequence (PSF);Protein;EssentialFeature_collection_Protein.csv
-QSO;Protein Sequence (PSF);QSO;EssentialFeature_collection_QSO.csv
-Tripetite;Protein Sequence (PSF);Tripetite;EssentialFeature_collection_Tripetite.csv
+APAAC;Protein Sequence (PSF);Ctriad;EssentialFeature_collection_APAAC.csv;1
+CTDD;Protein Sequence (PSF);CTDD;EssentialFeature_collection_CTDD.csv;1
+Dipetite;Protein Sequence (PSF);Dipetite;EssentialFeature_collection_Dipetite.csv;1
+Moran;Protein Sequence (PSF);Moran;EssentialFeature_collection_Moran.csv;1
+Moreau;Protein Sequence (PSF);Moreau;EssentialFeature_collection_Moreau.csv;1
+Nucleotide;Protein Sequence (PSF);Nucleotide;EssentialFeature_collection_Nucleotide.csv;1
+Protein;Protein Sequence (PSF);Protein;EssentialFeature_collection_Protein.csv;1
+QSO;Protein Sequence (PSF);QSO;EssentialFeature_collection_QSO.csv;1
+Tripetite;Protein Sequence (PSF);Tripetite;EssentialFeature_collection_Tripetite.csv;1
